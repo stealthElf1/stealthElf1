@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Belma, a Computer Science student based in Germany.
+
+I'm currently at the beginning of my coding journey and use GitHub to organize my projects.
+
+Public repositories will be added gradually as I make progress in my learning journey.
+
 <!--
 **stealthElf1/stealthElf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
